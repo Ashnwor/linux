@@ -2,8 +2,8 @@
 VERSION = 5
 PATCHLEVEL = 3
 SUBLEVEL = 0
-EXTRAVERSION =
-NAME = Bobtail Squid
+EXTRAVERSION = -fsync
+NAME = Damn you pikachu!
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
